@@ -21,6 +21,3 @@
 
 Our project aims to allow applicants to have their first contact with the code. It makes it easier for teachers and administrators to take control over the learning process of users.
 
-CADA VIERNES IMPORTANT !
-
-git push origin turama:develop
